@@ -5,7 +5,9 @@ A simple TypeScript class wrapper for the OpenAI Chat Completion API.
 ## Installation
 
 Run the following command to install the official OpenAI SDK. Make sure you are using version 4.x or later.
-
+```bash
+npm install openai
+```
 
 # Setup
 Create an ``.env`` file in your project root and add your OpenAI API key.
